@@ -1,9 +1,10 @@
-import Vue from 'vue'
-import App from './App.vue'
-import router from './router'
-import  './plugins/element'
-import vueAxios from './plugins/axios'
-import './plugins/element.js'
+import Vue from 'vue';
+import App from './App.vue';
+import router from './router';
+import  './plugins/element';
+import vueAxios from './plugins/axios';
+import './plugins/element.js';
+import './assets/css/icon.css';
 
 Vue.use(vueAxios());
 
