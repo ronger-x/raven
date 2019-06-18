@@ -125,6 +125,8 @@
         box-sizing: border-box;
         width: 100%;
         height: 23px;
+        padding: 0px;
+        margin: 0px;
     }
 
     .tags-li {

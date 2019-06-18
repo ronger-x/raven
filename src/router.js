@@ -1,7 +1,9 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 
-Vue.use(Router)
+Vue.use(Router);
+
+export const constantRouterMap = [];
 
 export default new Router({
   routes: [
